@@ -1,6 +1,6 @@
 # Sales_Insights_Tableau
 Tableau_Project- Sales Insight to display the data in different charts for better understanding for Business Purpose.
- Swapping Sheets Dashboar: It contains two part as mentioned below:
+Swapping Sheets Dashboard: It contains two part as mentioned below:
 1. I have  created 3 sheets where we can swap between them and it will display the one selected
 2. where we can show and hide the sheets which we want.
 
